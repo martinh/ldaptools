@@ -4,7 +4,7 @@ ldaptools is an implementation of the common ldap tools ldapsearch and ldapadd.
 
 ## License
 
-	Copyright (c) 2010 Martin Hedenfalk <martinh@openbsd.org>
+	Copyright (c) 2010 Martin Hedenfalk <martin@bzero.se>
 
 	Permission to use, copy, modify, and distribute this software for any
 	purpose with or without fee is hereby granted, provided that the above
